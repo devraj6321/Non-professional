@@ -1,0 +1,8 @@
+bouncyCastle\service\CryptographyApi.class
+bouncyCastle\controller\Controller.class
+bouncyCastle\service\CryptographyService.class
+bouncyCastle\config\BouncyCastleKeyProvider.class
+bouncyCastle\config\KeyProviderFactory.class
+bouncyCastle\BouncyCastleMain.class
+bouncyCastle\config\KeyManager.class
+bouncyCastle\config\EncrypterInterface.class
